@@ -1,10 +1,12 @@
-# Machine Learning Engineer Nanodegree
-# Capstone Project
-## Project: A-Z Handwritten Character Recognizer
+# Computer Vision Course
+# Practical Exam¶ 
+## Project: A-Z Handwritten Character Recognizer OCR
+
+**This report is submitted as partial fulfillment of the requirements of the Computer Vision course’s practical exam**
 
 ## Project Overview
 
-My project's aim is to program the computer to identify hand-written alphabets via matrix
+Our project's aim is to program the computer to identify hand-written alphabets via matrix
 operations. Each alphabet image contains 28*28 pixels, and we create a matrix using these
 pixels. By multiply the matrix to several sample matrixes, the pixels are converted into a deep neural network. And finally, we employ adam optimizer method so that the computer can predict the highest possibility of the alphabet written.
 
